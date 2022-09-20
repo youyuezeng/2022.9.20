@@ -1,0 +1,9 @@
+﻿  1.c
+C:\c#130\Sep 20th\Sep 20th\1.c(54,23): warning C4474: printf: 格式字符串中传递的参数太多
+C:\c#130\Sep 20th\Sep 20th\1.c(54,23): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+C:\c#130\Sep 20th\Sep 20th\1.c(61,24): warning C4474: printf: 格式字符串中传递的参数太多
+C:\c#130\Sep 20th\Sep 20th\1.c(61,24): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+C:\c#130\Sep 20th\Sep 20th\1.c(66,28): warning C4474: printf: 格式字符串中传递的参数太多
+C:\c#130\Sep 20th\Sep 20th\1.c(66,28): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+C:\c#130\Sep 20th\Sep 20th\1.c(82,8): warning C4013: “memset”未定义；假设外部返回 int
+  Sep 20th.vcxproj -> C:\c#130\Sep 20th\x64\Debug\Sep 20th.exe
